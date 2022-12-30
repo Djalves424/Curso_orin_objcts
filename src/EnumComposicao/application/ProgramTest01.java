@@ -11,8 +11,9 @@ import EnumComposicao.entities.HourContract;
 import EnumComposicao.entities.Worker;
 import EnumComposicao.entities_enums.WorkerLevel;
 
-public class Program01 {
+public class ProgramTest01 {
 
+	@SuppressWarnings("unused")
 	private static Date contractDate;
 
 	public static void main(String[] args) throws ParseException {
